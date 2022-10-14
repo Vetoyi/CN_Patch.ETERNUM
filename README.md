@@ -88,7 +88,7 @@
 ***
 
 # :o:补丁更新记录
-**<details><summary>:beginner:2022.10.14_Eternum.CN_Ver0.01.GameVer0.4</summary>**
+**<details><summary>:beginner:2022.10.14_ETERNUM.CN_Ver0.01.GameVer0.4</summary>**
 - 修正部分汉化问题。
 - 添加仙女座语音备忘录翻译。
 - 首次发布补丁。</details>
