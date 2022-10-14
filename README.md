@@ -28,9 +28,9 @@
 <br>补丁版本：0.01
 <br>适配itch版本：0.4(最新：2022.09.05)
 <br>解压码：vetoy
-<br>下载地址：[百度网盘(提取码r93v)]()　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Eternum/releases)
-<br>补丁安装：[目录“(必读)如何使用补丁](https://github.com/Vetoyi/CN_Patch.Eternum#o必读bangbang如何使用补丁)”
-<br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.Eternum#o补丁快速qa)
+<br>下载地址：[百度网盘(提取码x617)](https://pan.baidu.com/s/1v8htj8q5ehTVubx-qmk5aQ)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.ETERNUM/releases)
+<br>补丁安装：[目录“(必读)如何使用补丁](https://github.com/Vetoyi/CN_Patch.ETERNUM#o必读bangbang如何使用补丁)”
+<br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.ETERNUM#o补丁快速qa)
 <br>[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**
 
 ***
