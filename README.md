@@ -1,4 +1,4 @@
-![image](https://github.com/Vetoyi/ETERNUM/blob/main/%E5%B0%81%E9%9D%A2(ETERNUM).png)
+![image](https://github.com/Vetoyi/CN_Patch.ETERNUM/blob/main/%E5%B0%81%E9%9D%A2(ETERNUM).png)
 # <p align="center">:video_game:ETERNUM</p>
 **<p align="center">:cn:：永恒世界</p>**
 <p align="center">Itch正版汉化补丁，请支持正版游戏！</p>
@@ -39,13 +39,13 @@
 **具体步骤：**
 
 **<details><summary>1. 将下载好的补丁压缩包里的文件再次解压，并将其扩展名改为rar得到最终压缩包；</summary>**
-> ![image](https://github.com/Vetoyi/ETERNUM/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/01.png)
-> ![image](https://github.com/Vetoyi/ETERNUM/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/02.png)</details>
+> ![image](https://github.com/Vetoyi/CN_Patch.ETERNUM/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/01.png)
+> ![image](https://github.com/Vetoyi/CN_Patch.ETERNUM/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/02.png)</details>
 
 **<details><summary>2. 找到游戏安装目录(内含game、renpy文件夹)，将最终压缩包中的2个文件夹(game，renpy)解压至该安装目录内，在跳出提示框后选择替换所有文件；</summary>**
-> ![image](https://github.com/Vetoyi/ETERNUM/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/03.png)
-> ![image](https://github.com/Vetoyi/ETERNUM/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/04.png)
-> ![image](https://github.com/Vetoyi/ETERNUM/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/05.png)</details>
+> ![image](https://github.com/Vetoyi/CN_Patch.ETERNUM/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/03.png)
+> ![image](https://github.com/Vetoyi/CN_Patch.ETERNUM/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/04.png)
+> ![image](https://github.com/Vetoyi/CN_Patch.ETERNUM/blob/main/(%E5%BF%85%E8%AF%BB%E2%80%BC%EF%B8%8F)%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A1%A5%E4%B8%81/05.png)</details>
 
 **3. 进入游戏，如上述步骤操作均正确，则汉化成功。**
 
