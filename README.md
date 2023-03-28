@@ -25,12 +25,13 @@
 ***
 
 # :o:补丁下载
-<br>**:warning:注：永恒世界itch官方页面现已更新由loneyneet大佬制作的精翻汉化补丁，建议直接前往下载以获取最佳游戏体验！:bangbang:**<br>
+<br>**:warning:注：[永恒世界itch官方页面](https://caribdis.itch.io/eternum)现已更新由loneyneet大佬制作的精翻汉化补丁，建议直接前往下载以获取最佳游戏体验！:bangbang:**<br>
+<br>
 **更新时间：2022.10.14
 <br>补丁版本：0.01
 <br>适配游戏版本：0.4(最新：2022.09.05)
 <br>解压码：vetoy
-<br>下载地址：[百度网盘(提取码x617)](https://pan.baidu.com/s/1v8htj8q5ehTVubx-qmk5aQ)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.ETERNUM/releases)
+<br>下载地址：[百度网盘(提取码x617)]()　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.ETERNUM/releases)
 <br>补丁安装：[目录“(必读)如何使用补丁](https://github.com/Vetoyi/CN_Patch.ETERNUM#o必读bangbang如何使用补丁)”
 <br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.ETERNUM#o补丁快速qa)
 <br>[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**
